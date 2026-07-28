@@ -17,7 +17,7 @@
 
 <br/>
 
-<!-- About Me – Khung vẫn giữ cấu trúc đẹp, thêm hiệu ứng bóng mờ bên ngoài cho toàn bộ bảng -->
+<!-- About Me – Khung với nội dung mới -->
 <div align="center" style="filter: drop-shadow(0 8px 16px rgba(108, 92, 231, 0.25));">
   <table>
     <tr>
@@ -25,7 +25,7 @@
         <table>
           <tr>
             <td style="background: #ffffff; padding: 35px 45px; border-radius: 30px;" align="center">
-              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=6C5CE7&center=true&vCenter=true&width=750&repeat=true&lines=%E2%9C%A8%20About%20Me%20%E2%9C%A8;%F0%9F%94%AD%20I'm%20currently%20working%20on%20something%20cool;%F0%9F%8C%B1%20I'm%20learning%20Rust%20%26%20WebAssembly;%F0%9F%92%AC%20Ask%20me%20about%20React%2C%20Node.js%2C%20and%20system%20design;%E2%9A%A1%20Fun%20fact%3A%20I%20can%20solve%20a%20Rubik's%20cube%20in%20under%20a%20minute" alt="About Me Typing" />
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=6C5CE7&center=true&vCenter=true&width=750&repeat=true&lines=%E2%9C%A8%20About%20Me%20%E2%9C%A8;%F0%9F%94%AD%20I'm%20currently%20relaxing;%F0%9F%8C%B1%20I'm%20learning%20English;%F0%9F%92%AC%20Ask%20me%20about%20English%2C%20Video%20games%2C%20and%20others;%E2%9A%A1%20Fun%20fact%3A%20I%20fancy%20playing%20video%20games" alt="About Me Typing" />
             </td>
           </tr>
         </table>
